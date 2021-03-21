@@ -1,6 +1,15 @@
+//ref 
+  //Code
+    //https://www.tutorialspoint.com/kotlin/index.htm
+  //Content
+    //tutorialspoint - https://www.tutorialspoint.com/kotlin/index.htm
+    //programiz - https://www.programiz.com/kotlin-programming
 //Inheritance
   //inheritance means accruing some properties of the mother class into the child class.
   //override 
     //It means child class is using function of parent class to do some other task
 //Extension
   //In function extension, Kotlin allows to define a method outside of the main class.
+//Sealed Class  
+  //sealed class restricts the possibility of creating subclasses. And, when you handle all subclasses of a sealed class in an when expression, 
+  it's not necessary to use else branch.
