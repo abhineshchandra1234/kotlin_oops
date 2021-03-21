@@ -2,3 +2,5 @@
   //inheritance means accruing some properties of the mother class into the child class.
   //override 
     //It means child class is using function of parent class to do some other task
+//Extension
+  //In function extension, Kotlin allows to define a method outside of the main class.
