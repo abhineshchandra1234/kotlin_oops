@@ -19,3 +19,8 @@
   //This secondary constructor is created using the “constructor” keyword. It is required whenever you want to create more than 
   //one constructor in Kotlin or whenever you want to include more
   //logic in the primary constructor and you cannot do that because the primary constructor may be called by some other class.
+//Data Classes
+  //A class can be marked as a Data class whenever it is marked as ”data”. 
+  //This type of class can be used to hold the basic data apart. Other than this, it does not provide any other functionality.
+  //All the data classes need to have one primary constructor and all the primary constructor should have at least one parameter.
+  
