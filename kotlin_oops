@@ -13,6 +13,8 @@
 //Sealed Class  
   //sealed class restricts the possibility of creating subclasses. And, when you handle all subclasses of a sealed class in an when expression, 
   it's not necessary to use else branch.
+  //A sealed class can have its own subclass but all those subclasses need to be declared inside the same Kotlin file along with the sealed class.
+  //In the above example, we have one sealed class named “MyExample”, which can be of two types only - one is “OP1” and another one is “OP2”. 
 //Constructors
   //It is used to give default features to class
   //One Kotlin class can have one primary constructor, and one or more secondary constructor.
