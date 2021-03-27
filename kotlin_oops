@@ -25,4 +25,7 @@
   //A class can be marked as a Data class whenever it is marked as ”data”. 
   //This type of class can be used to hold the basic data apart. Other than this, it does not provide any other functionality.
   //All the data classes need to have one primary constructor and all the primary constructor should have at least one parameter.
-  
+//Interface
+  // they can contain method implementation as well as abstract methods declaration. An interface can be implemented by a class in order to use its defined functionality.
+  //Kotlin doesn’t support multiple inheritances, however, the same thing can be achieved by implementing more than two interfaces at a time.
+  //In the following example, we will create two interfaces and later we will implement both the interfaces into a class.
