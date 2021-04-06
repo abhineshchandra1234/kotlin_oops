@@ -30,3 +30,12 @@
   // they can contain method implementation as well as abstract methods declaration. An interface can be implemented by a class in order to use its defined functionality.
   //Kotlin doesn’t support multiple inheritances, however, the same thing can be achieved by implementing more than two interfaces at a time.
   //In the following example, we will create two interfaces and later we will implement both the interfaces into a class.
+
+//abstract
+  //Sometimes we may come across a situation where we cannot provide 
+//implementation to all the methods in a class. We want to leave the 
+//implementation to a class that extends it. In such case we declare a class
+//as abstract.To make a class abstract we use key word abstract. 
+//Any class that contains one or more abstract methods is declared as abstract. 
+//If we don’t declare class as abstract which contains abstract methods we get 
+//compile time error.
